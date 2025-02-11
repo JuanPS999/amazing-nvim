@@ -1,5 +1,3 @@
--- ~/.config/nvim/lua/juan/set.lua
-
 -- UI Settings
 vim.opt.termguicolors = true
 vim.opt.guicursor = ""

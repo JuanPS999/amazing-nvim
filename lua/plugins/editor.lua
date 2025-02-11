@@ -46,11 +46,11 @@ return {
             "lukas-reineke/indent-blankline.nvim",
             event = "BufReadPost",
             config = function()
-                require("indent_blankline").setup({
-                    show_current_context = true, -- Highlight current indentation level
-                    char = "▏", -- Indentation character
+                require("ibl").setup({
+                    indent = { char = "▏" },
+		    scope = { enabled = true, show_start = true, show_end = true },
                 })
             end,
-        },
+        }
     }
 }
