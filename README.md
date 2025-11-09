@@ -60,7 +60,7 @@ Then open Neovim and allow lazy.nvim to install and configure all dependencies a
 ---
 
 ### Philosophy
-| “Tools should disappear between you and your thoughts.”
+> “Tools should disappear between you and your thoughts.”
 
 A configuration that prioritizes flow and simplicity — minimal distractions, maximum focus.
 
