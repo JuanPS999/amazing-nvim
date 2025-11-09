@@ -1,6 +1,6 @@
-<!-- Juan Prado's Neovim Configuration -->
+<!-- The Amazing Neovim Configuration -->
 
-<h1 align="center">Juan Prado's Neovim Setup</h1>
+<h1 align="center">The Amazing Neovim Setup</h1>
 
 <p align="center">
   <samp>
@@ -61,6 +61,7 @@ Then open Neovim and allow lazy.nvim to install and configure all dependencies a
 
 ### Philosophy
 | “Tools should disappear between you and your thoughts.”
+
 A configuration that prioritizes flow and simplicity — minimal distractions, maximum focus.
 
 ---
