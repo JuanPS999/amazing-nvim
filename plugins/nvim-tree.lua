@@ -40,8 +40,6 @@ return {
                 width = 30,
                 signcolumn = "yes",
             },
-            -- Permite que o nvim-tree feche quando for a última janela
-            quit_on_open = true,
 
             -- Não é necessário, o gitsigns faz isto melhor
             git = {
