@@ -69,3 +69,7 @@ A configuration that prioritizes flow and simplicity — minimal distractions, m
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=282828&height=1&section=header&reversal=false"/> </p> <p align="center"> <samp> Maintained by <b>Juan Prado</b> • <a href="mailto:juanprs077@gmail.com">juanprs077@gmail.com</a> </samp> </p>
 
 ---
+
+<p align="center">
+  <sub><i>Per Aspera Ad Astra.</i></sub>
+</p>
